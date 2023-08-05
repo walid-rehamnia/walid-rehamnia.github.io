@@ -12672,6 +12672,7 @@ h5,
 
 .resume-wrap {
   width: 100%;
+  margin-top: 100px;
   margin-bottom: 30px;
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;

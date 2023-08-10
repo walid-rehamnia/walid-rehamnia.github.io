@@ -13066,7 +13066,8 @@ textarea.form-control {
 }
 
 .ftco-section {
-  padding: 7em 0;
+  /* padding: 7em 0; */
+  margin-bottom: 12% ;
   position: relative;
 }
 
@@ -13946,4 +13947,16 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px;
   }
+}
+
+.social_media li {
+  display: inline-block;
+  margin: 0 10px;
+  /* width: 40px;
+  height: 40px; */
+}
+
+.social_media li img{
+  width: 23px;
+  height: 23px;
 }

@@ -13951,12 +13951,14 @@ textarea.form-control {
 
 .social_media li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 12px;
+  /* font-size: 12px; */
+  text-align: center;
   /* width: 40px;
   height: 40px; */
 }
 
 .social_media li img{
-  width: 23px;
-  height: 23px;
+  width: 30px;
+  height: 30px;
 }
